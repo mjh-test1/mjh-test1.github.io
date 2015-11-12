@@ -1,0 +1,17 @@
+---
+layout: default
+title: Matts test page
+---
+
+<h1>Testing!</h1>
+<p>This is a test page.</p>
+
+<h1>Trying a loop</h1>
+<ul>
+{% for post in site.posts %}
+  <li>{{ post.date | date_to_string }} - <a href="{{ post.url }}"> {{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
+<h1>And some more static content</h1>
+<p>And some more plain text</p>
