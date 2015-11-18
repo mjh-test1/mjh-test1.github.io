@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Matt's test site
+tagline:          'A random collection of notes to self'
+description:      'Just a simple repository for notes and ideas. I hope you find something useful.'
+url:              http://mjh-test1.github.io
+
+author:
+  name:           'Matt Holmes'
+  url:            http://github.com/mjh-test1
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/mjh-test1
