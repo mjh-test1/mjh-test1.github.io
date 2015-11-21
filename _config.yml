@@ -6,9 +6,9 @@ relative_permalinks: true
 
 # Setup
 title:               Matt's blog
-tagline:             'A random collection of notes to self'
+tagline:             'random notes to self'
 description:         'I hope you find something useful'
-url:                 http://mjh-test1.github.io
+url:                 https://mjh-test1.github.io
 baseurl:             ''
 paginate:            5
 
