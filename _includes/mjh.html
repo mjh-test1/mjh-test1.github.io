@@ -1,1 +1,10 @@
-Test
+<!-- Test -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@matt_j_holmes">
+  <meta name="twitter:creator" content="@matt_j_holmes">
+  {% if page.title %}
+    <meta name="twitter:title" content="{{ page.title }}">
+  {% else %}
+    <meta name="twitter:title" content="{{ site.title }}">
+  {% endif %}
+
