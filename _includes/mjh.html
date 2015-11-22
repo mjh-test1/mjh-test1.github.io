@@ -17,3 +17,9 @@
     <meta name="twitter:description" content="{{ site.description }}">
   {% endif %}
 
+
+  {% if page.image %}
+    <meta name="twitter:image:src" content="{{ site.url }}/public/images/{{ page.image }}">
+  {% else % }
+    <meta name="twitter:image:src" content="{{ site.url }}/public/images/BeinnMacDuibh.jpg">
+  {% endif %}
