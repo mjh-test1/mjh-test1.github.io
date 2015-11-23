@@ -12,6 +12,7 @@ url:                 http://mjh-test1.github.io
 baseurl:             ''
 paginate:            5
 ga-id:               UA-70518210-1
+excerpt_separator:   <!--excerpt-->
 
 
 # About/contact
