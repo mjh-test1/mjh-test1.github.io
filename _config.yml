@@ -11,12 +11,17 @@ description:         'I hope you find something useful'
 url:                 http://mjh-test1.github.io
 baseurl:             ''
 paginate:            5
+ga-id:               UA-70518210-1
+
 
 # About/contact
 author:
   name:              Matt
   url:               http://mjh-test1.github.io
   email:             somewheresometime@mailinator.com
+  twitter:           matt_j_holmes
+  github:            mjh-test1
+  linkedin:          
 
 # Custom vars
 version:             1.0.0
