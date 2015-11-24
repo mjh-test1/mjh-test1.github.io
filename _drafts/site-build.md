@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Migrating my site
-excerpt_serparator: <!--excerpt-->
+title: Migrating my site to Jekyll
 ---
 I've used Wordpress hosted on my own server for about 8 years now, the content is mainly stuff that i've learnt and at some point will probably come in useful again. Wordpress is a poesrful platform capable of building sites as complex or simple as you can envisage. It does, howeever, come at a price:
 * constant tlc required to keep it up to date and secure
@@ -22,6 +21,7 @@ There are a number of reasons why i chose to migrate from a personally hosted Wo
 
 ### Resources
 
+exitwp
 
 ### Changes
 
@@ -30,5 +30,5 @@ There are a number of reasons why i chose to migrate from a personally hosted Wo
 * Twittercards - 
 * Google analytics
 * Sharing link on posts 
-* Excerpts - Scott Lowe
+* Excerpts - Scott Lowe index page and http://jekyllrb.com/docs/posts/ post content
 
