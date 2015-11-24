@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Post title
 description: Description of post, used in twittercards
 author: [optional] 
